@@ -10,6 +10,6 @@
 
 - 💬 Ask me about NestJS, MongoDB, React, or how to integrate AI tools into real-world apps.
 
-- 📫 How to reach me: [your-email@example.com] or connect via [LinkedIn/GitHub/Portfolio URL]
+- 📫 How to reach me: https://t.me/tomcvv
 
 - 😄 Pronouns: he/him
