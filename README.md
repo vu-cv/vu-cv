@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**vu-cv/vu-cv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on a multi-channel sales management app using NestJS and React.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning AI integration with Node.js and Retrieval-Augmented Generation (RAG).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on open-source projects involving AI, automation, or full-stack development.
+
+- 🤔 I’m looking for help with optimizing performance for large-scale messaging systems.
+
+- 💬 Ask me about NestJS, MongoDB, React, or how to integrate AI tools into real-world apps.
+
+- 📫 How to reach me: [your-email@example.com] or connect via [LinkedIn/GitHub/Portfolio URL]
+
+- 😄 Pronouns: he/him
